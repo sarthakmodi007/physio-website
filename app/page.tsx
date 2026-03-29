@@ -34,7 +34,7 @@ const services = [
 ];
 
 const highlights = [
-  "Personalized treatment plans by Dr. Priya Chudasama (PT), M.I.A.P",
+  "Personalized treatment plans by Dr. Priya Chudasama (PT), A.I.P",
   "Specialized physiotherapy for pain management and post-operative recovery",
   "Home visit available for patients needing convenient rehabilitation support",
   "Patient-friendly clinic with appointment-based focused consultations",
@@ -62,7 +62,7 @@ const testimonials = [
 ];
 
 const metrics = [
-  { value: "M.I.A.P", label: "Qualified and certified physiotherapy care" },
+  { value: "A.I.P", label: "Qualified and certified physiotherapy care" },
   { value: "Home Visit", label: "Available for selected rehabilitation needs" },
   { value: "By Appointment", label: "Focused one-on-one consultation model" },
 ];
@@ -83,7 +83,7 @@ export default function Home() {
             />
             <span>
               Wellness Physiocare
-              <small>Dr. Priya Chudasama (PT), M.I.A.P</small>
+              <small>Dr. Priya Chudasama (PT), A.I.P</small>
             </span>
           </a>
 
@@ -154,7 +154,7 @@ export default function Home() {
               recovery.
             </p>
             <p>
-              Led by Dr. Priya Chudasama (PT), M.I.A.P, the clinic combines
+              Led by Dr. Priya Chudasama (PT), A.I.P, the clinic combines
               therapeutic exercise, pain management, post-operative rehab, and
               movement-based recovery strategies to support long-term results.
             </p>
@@ -338,7 +338,7 @@ export default function Home() {
               />
               <div>
                 <h3>Wellness Physiocare</h3>
-                <p>Dr. Priya Chudasama (PT), M.I.A.P</p>
+                <p>Dr. Priya Chudasama (PT), A.I.P</p>
               </div>
             </div>
             <p className="footer-copy">
